@@ -147,7 +147,7 @@ header .logo {
   display: flex;
 }
 .main-content .bottom-content .text-content {
-  width: 275px;
+  /* width: 275px; */
   margin-right: 12px;
 }
 .main-content .bottom-content .text-content:last-child {
