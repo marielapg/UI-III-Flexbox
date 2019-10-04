@@ -146,10 +146,10 @@ header .logo {
   padding: 0 10px;
   display: flex;
 }
-.main-content .bottom-content .text-content {
+/* .main-content .bottom-content .text-content {
   /* width: 275px; */
   margin-right: 12px;
-}
+} */
 .main-content .bottom-content .text-content:last-child {
   margin-right: 0;
 }
